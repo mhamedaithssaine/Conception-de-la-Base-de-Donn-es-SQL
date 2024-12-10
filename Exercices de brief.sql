@@ -59,7 +59,7 @@ FROM doctors
 GROUP BY department_id;
 
 
-#j'ai oublier 11 11. COUNT avec GROUP BY : Nombre de médecins par département Comptez le nombre de médecins dans chaque département.
+#j'ai oublier question 11 
 
 select count(*) as Nombre_de_medecins
 from doctors
